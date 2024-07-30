@@ -1,4 +1,4 @@
-name: Cloud N1 OpenWrt
+name: Build OpenWrt and release
 
 on:
   push:
